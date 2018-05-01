@@ -13,4 +13,4 @@ You are welcome to contribute. Please make sure to follow the following guidelin
 * Please don't edit Bootstrap unless you're updating it. In that case, please make sure that everything is compatible or update everything to be compatible.
 
 ## License
-Resources For YouTubers is licensed under the [Creative Commons CC BY 4.0 License.](LICENSE)
+Resources For YouTubers is licensed under the [Creative Commons CC BY 4.0 License.](https://creativecommons.org/licenses/by/4.0/)
