@@ -1,2 +1,15 @@
 # resources-for-youtubers
-A small website showing free online resource for video creators.
+Resources For YouTubers is a small website showing free resources for online video creators.
+
+## Contributing
+You are welcome to contribute. Please make sure to follow the following guidelines:
+
+* Be civil.
+* If you make a pull request, your pull request should give a description of all changes made.
+* Please do not post comments that consist solely of "+1" or "👍" Use reactions instead.
+* Before making a Issue, please search previously-made issues to make sure that you're not making a duplicate issue.
+* No external non self-hosted resources, such as those from a CDN.
+* By submitting changes, you agree that the code is yours and that it will be licensed under the MIT Expat License.
+
+## License
+Resources For YouTubers is licensed under the [MIT Expat License.](LICENSE)
